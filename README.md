@@ -15,4 +15,4 @@ Developed a responsive and interactive website using HTML, CSS, and JavaScript t
 - JavaScript
 
 ## 🌐 Live Demo
-https://your-username.github.io/responsive-website/
+https://maheshj1605.github.io/responsive-website/
